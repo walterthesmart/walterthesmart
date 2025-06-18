@@ -1,6 +1,6 @@
 <div align="center">
 
-# � Walter Nwaugo | Blockchain Developer & Financial Analyst
+#  Walter Nwaugo | Blockchain Developer & Financial Analyst
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer+%26+DeFi+Architect;Financial+Markets+Analyst+%26+Trader;Quantitative+Developer+%26+Data+Scientist;Building+the+Future+of+Finance)](https://git.io/typing-svg)
 
